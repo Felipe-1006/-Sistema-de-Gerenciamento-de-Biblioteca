@@ -1,0 +1,20 @@
+# Ignorar arquivos e diretórios comuns
+*.log
+*.sql
+*.DS_Store
+*.env
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+
+# Ignorar banco de dados
+*.sqlite3
+
+# Ignorar backups e dumps
+*.bak
+*.dump
+
+# Ignorar arquivos de configuração do sistema operacional
+Thumbs.db
+Desktop.ini
